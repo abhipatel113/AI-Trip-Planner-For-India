@@ -1,0 +1,9 @@
+# Streamlit UI framework
+streamlit>=1.36,<2.0
+
+# Google Gemini SDK (itinerary generation)
+google-genai>=1.0,<2.0
+
+# PDF export (day-by-day itinerary + estimated costs)
+reportlab>=4.0,<5.0
+
